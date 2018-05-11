@@ -4,6 +4,8 @@ Image Classification has been one of the tasks that CNNs have always been great 
 
 
 The Files and the Summary:
+
+
 CNN_from_scratch.py ---------------  This is firstly epxerimenting with data on a simple 3 layer CNN and training it from Scratch to obtain prilimnary Classification Results.
 
 
